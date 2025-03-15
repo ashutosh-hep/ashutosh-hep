@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ashutosh-hep
-- 👀 I’m interested in Data Sciecne and ML
-- 🌱 I’m currently learning ML and DL.
+- 👋 Hi, I’m Ashutosh
+- 👀 I’m interested in DevOps and Cloud Infrastructure 
+- 🌱 I’m currently learning system design
 
 <!---
 ashutosh-hep/ashutosh-hep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
